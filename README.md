@@ -90,7 +90,7 @@ imagine new possibilities, both for technology and for the people who use it.
  
 ### BLT wai 
 
-[.trailz/wai/CLAUDE.md](.trailz/wai/CLAUDE.md)  - work in progress grid  
+[wai/CLAUDE.md](wai/CLAUDE.md)  - work in progress grid  
 
 
 
